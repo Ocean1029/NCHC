@@ -1,2 +1,1 @@
-rocker --nvidia --x11 --privileged --ipc host  --name ros2-noname osrf/ros:humble-desktop-full
-
+rocker --nvidia --x11 --privileged --ipc host  --name ros2-noname ego-planner-swarm:custom
